@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">Valarear Project</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Valarear</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Content Description-->
+    <string name="img_instant_desc">instant image</string>
+
+
 </resources>
